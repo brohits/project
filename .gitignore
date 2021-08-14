@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+#blender.backup.file
+*.blendl
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
